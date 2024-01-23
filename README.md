@@ -29,10 +29,10 @@ jupyter notebook Code.ipynb
 ```
 ## Results
 
-##### Deep Neural Network
+#### Deep Neural Network
 The tuned DNN model attained a competitive accuracy of **89%** when tested on the unseen test set of 10,000 images, demonstrating effective generalization. The model performed very well in categories like T-shirt, Pullover, Dress and Shirt with F1 scores above 0.9, aided by large training samples.
 
-##### Convolutional Neural Network
+#### Convolutional Neural Network
 The best-performing CNN model based on validation accuracy was evaluated on the unseen test set. It achieved an accuracy of **90%**, outperforming many previous models in this domain.
 ## Business insights
 The high accuracy achieved by the CNN model holds promising implications for a clothing company. The superior performance in image classification using CNNs suggests that such models can play a crucial role in automating the categorization of clothing items. This automation, driven by accurate and efficient algorithms, could streamline inventory management, enhance product recommendation systems, and ultimately contribute to an improved customer experience. The deployment of robust image classification models, as demonstrated in our study, has the potential to revolutionize various aspects of the clothing industry, offering efficiency gains and valuable insights for business decision-making.
